@@ -1,20 +1,13 @@
 ### 这是我日常遇到的一些小问题的解决办法，全部是基于Python3
 
-1.[获取当前CPU状态，存储到Influxdb](https://github.com/injetlee/demo/blob/master/CpuToInfluxdb.py)
+1.[模拟登录知乎]login_zhihu.py
 
-2.[模拟登录知乎](https://github.com/injetlee/demo/blob/master/login_zhihu.py)
+2.[爬取豆瓣电影top250]douban_movie.py
 
-3.[对目录下所有文件计数](https://github.com/injetlee/demo/blob/master/countFile.py)
+3.[Excel文件读入数据库]excelToDatabase.py
 
+4.[爬取拉勾网职位信息]lagouSpider.py
 
-4.[爬取豆瓣电影top250](https://github.com/injetlee/demo/blob/master/douban_movie.py)
+5.[批量修改文件名]ModifyFilename.py
 
-5.[Excel文件读入数据库](https://github.com/injetlee/demo/blob/master/excelToDatabase.py)
-
-6.[爬取拉勾网职位信息](https://github.com/injetlee/demo/blob/master/lagouSpider.py)
-
-7.[批量修改文件名](https://github.com/injetlee/demo/blob/master/ModifyFilename.py)
-
-8.[读写excel](https://github.com/injetlee/demo/blob/master/readExcel.py)
-
-9.[下载必应首页图片,只下载当天的，一张。](https://github.com/injetlee/Python/blob/master/biyingSpider.py)
+6.[读写excel]readExcel.py
